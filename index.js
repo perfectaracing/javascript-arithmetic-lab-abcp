@@ -1,3 +1,4 @@
-var number = ()
-function add(a, b)
-console.log(number)
+
+function add(a, b) {
+return a + b;
+}
